@@ -97,8 +97,4 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/c21259bbd718b4db71244.gif" alt="Anime Girl with Cat">
-</p>
-
-## Terima Kasih Sudah Berkunjung! 🙌
-Jika kalian menyukai apa yang kalian lihat, jangan rag
+  <img src="https://telegra.ph/file/c21259bbd718b

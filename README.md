@@ -5,8 +5,9 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
-<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A5EF7&vCenter=true&random=true&width=435&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%2C+Saya+Yui;Jangan+lupa+follow+akun+github+saya!+;Arigatou!+%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86.!!+" alt="Typing SVG" /></a>
+    <br>
+    <br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
     💻 System programming languages • DevOps 

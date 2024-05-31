@@ -115,7 +115,7 @@ Thanks for checking out my playlist! I hope you enjoy the music as much as I do.
 
 ## Proyek Terbaru 🧩
 <p align="center">
-  <a href="https://github.com/YuiNeio/YuiNeio">
+  <a href="https://github.com/YuiNeio/yuineoi">
   </a>
 </p>
 </br>

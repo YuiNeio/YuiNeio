@@ -27,10 +27,6 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
   </a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Anime Girl Coding">
-</p>
-
 ## Statistik Saya 📊
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">

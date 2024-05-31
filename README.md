@@ -64,6 +64,29 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
+You're on a team! :wave:
+
+* If you've already played a turn this game, you're already on a team
+  &mdash; check the game log below for a reminder. If it's not your turn,
+  check back later, or [ask a
+  friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
+* If you've not yet played a turn this game, make a move now to join the
+  **:black_circle:black** team.
+
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3067.svg"></p>
+
+  **:black_circle:Black team:**
+  You rolled a 1!
+What would you like to do?
+
+| Choices *(pick one of them!)* |
+| --- |
+  | [    Move a new piece to tile 1](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [ :crossed_swords:   Move the piece on tile 4 to tile 5](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%404-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [:rosette:    Move the piece on tile 13 to tile 14](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%4013-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+
+-----
+
 # Tentang Saya 💬 :
 
 ### - Saya adalah penggemar Bot WhatsApp & Artificial Intelligence berusia 18 tahun dari Indonesia.

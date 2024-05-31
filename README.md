@@ -121,16 +121,6 @@ Thanks for checking out my playlist! I hope you enjoy the music as much as I do.
 </br>
 </br>
 
-You're on a team! :wave:
-
-* If you've already played a turn this game, you're already on a team
-  &mdash; check the game log below for a reminder. If it's not your turn,
-  check back later, or [ask a
-  friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
-* If you've not yet played a turn this game, make a move now to join the
-  **:black_circle:black** team.
-
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.3067.svg"></p>
 
 -----
 

@@ -1,16 +1,24 @@
 # 👋 Hai, Selamat Datang di Profil Saya!
 
 ## Siapa Saya? 🤔
-Saya adalah pengembang yang suka sekali dengan kopi dan kucing. Kode saya mungkin tidak sempurna, tapi setidaknya saya selalu berusaha keras (dan minum banyak kopi). ☕🐱
+Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak selalu sempurna, aku selalu berusaha keras (dan minum banyak kopi). ☕🐱
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat Coding">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/GsqtVP6.jpg" alt="Anime Girl Coding">
 </p>
 
 ## Apa yang Saya Lakukan? 🛠️
 - **Koding:** Seperti ninja, tapi dengan lebih banyak bug.
 - **Ngopi:** Karena kafein adalah bahan bakar utama saya.
 - **Memelihara Kucing:** Kadang-kadang mereka membantu mengetik kode (atau setidaknya berjalan di keyboard).
+
+<p align="center">
+  <img src="https://i.imgur.com/gOrwR3U.jpg" alt="Anime Girl with Coffee">
+</p>
 
 ## Proyek Saya 🧩
 <p align="center">
@@ -25,9 +33,17 @@ Saya adalah pengembang yang suka sekali dengan kopi dan kucing. Kode saya mungki
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/8n0n4u8.jpg" alt="Anime Girl Coding">
+</p>
+
 ## Statistik Saya 📊
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/Wr3ZfPM.jpg" alt="Anime Girl with Laptop">
 </p>
 
 ## Hubungi Saya 📫
@@ -43,10 +59,18 @@ Saya adalah pengembang yang suka sekali dengan kopi dan kucing. Kode saya mungki
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/vJ4kKhR.jpg" alt="Anime Girl with Phone">
+</p>
+
 ## Fun Facts 🥳
-- Saya bisa mengetik kode dengan satu tangan sambil minum kopi dengan tangan lainnya.
-- Kucing saya memiliki lebih banyak pengikut di Instagram daripada saya.
-- Saya menghabiskan lebih banyak waktu memperbaiki bug daripada menulis kode baru (hidup seorang pengembang).
+- Aku bisa mengetik kode dengan satu tangan sambil minum kopi dengan tangan lainnya.
+- Kucingku memiliki lebih banyak pengikut di Instagram daripada aku.
+- Aku menghabiskan lebih banyak waktu memperbaiki bug daripada menulis kode baru (hidup seorang pengembang).
+
+<p align="center">
+  <img src="https://i.imgur.com/zz5lnVM.jpg" alt="Anime Girl with Cat">
+</p>
 
 ## Terima Kasih Sudah Berkunjung! 🙌
-Jika Anda suka apa yang Anda lihat, jangan ragu untuk memberiku bintang ⭐ atau kirim kucing lucu 🐱.
+Jika kalian menyukai apa yang kalian lihat, jangan ragu untuk memberiku bintang ⭐ atau kirim kucing lucu 🐱.

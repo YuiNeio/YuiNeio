@@ -70,7 +70,16 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 - ✨ Pecinta Game
 - ✨ Menonton Anime (Jarang) 
 - ✨ Membaca Webtoon
-- ✨ Merusak Coding/Syntax (Kkkk) 
+- ✨ Merusak Coding/Syntax (Kkkk)
+
+
+### - All : 
+- ✨ Saya Lulusan SMK dengan jurusan rekayasa perangkat lunak (RPL)
+- 🩷 Suka Aisyah
+- ✨ Tq Allah SWT
+- ✨ Tq Ortu
+
+
 
 </br>
 </br>

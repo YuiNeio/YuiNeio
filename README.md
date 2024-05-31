@@ -82,7 +82,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
 
 <p align="center">
-  <img src="-" alt="Anime Girl with Laptop">
+  
 </p>
 
 # Contact Me :

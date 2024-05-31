@@ -150,4 +150,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/c21259bbd718b
+  <img src="https://telegra.ph/file/6ce702e64e0868c2f5172.gif" alt="Anime Girl with Cat">
+</p>

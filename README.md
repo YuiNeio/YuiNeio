@@ -72,8 +72,14 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 - Aku menghabiskan lebih banyak waktu memperbaiki bug daripada menulis kode baru (hidup seorang pengembang).
 
 <p align="center">
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/Hubungi_Bot_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Hubungi Bot WhatsApp">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Anime Girl with Cat">
 </p>
 
 ## Terima Kasih Sudah Berkunjung! 🙌
-Jika kalian menyukai apa yang kalian lihat, jangan ragu untuk memberiku bintang ⭐ atau kirim kucing lucu 🐱.
+Jika kalian menyukai apa yang kalian lihat, jangan ragu untuk memberiku b

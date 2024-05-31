@@ -30,7 +30,7 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
   <img src="https://telegra.ph/file/fc5b51f17c160f77aa1b6.gif" alt="Anime Girl with Coffee">
 </p>
 
-## Bahasa Pemrograman yang Saya Kuasai 💻
+## Bahasa Pemrograman yang Sedang Saya Pelajari 💻
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 

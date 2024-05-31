@@ -53,6 +53,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 
+## PlayList Spotify 🎧
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 ## Proyek Terbaru 🧩
 <p align="center">

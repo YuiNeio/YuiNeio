@@ -27,6 +27,26 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
   </a>
 </p>
 
+# About ME 💬 :
+
+### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
 ## Statistik Saya 📊
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YuiNeio&show_icons=true&theme=radical" alt="GitHub Stats">

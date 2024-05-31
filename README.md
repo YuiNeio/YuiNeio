@@ -138,7 +138,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 - Kucingku memiliki lebih banyak pengikut di Instagram daripada aku.
 - Aku menghabiskan lebih banyak waktu memperbaiki bug daripada menulis kode baru (hidup seorang pengembang).
 
-<div align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Yui+%E3%81%89%E3%83%BC+v2.0" alt="Typing SVG" /></a>
 
 <p align="center">

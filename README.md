@@ -43,14 +43,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 [![AI/Chat GPT](https://img.shields.io/badge/AI/Chat_GPT-OpenAI-9cf?style=for-the-badge&logo=openai)](https://openai.com)
 
 ### - Sedang Belajar :
-- ✨ Struktur Data & Algoritma
-- ✨ Jaringan Adversarial Generatif
-
-### - Hobi : 
-- ✨ Pecinta Game
-- ✨ Menonton Anime
-- ✨ Membaca Novel Ringan
-- ✨ Bulutangkis (Profesional di lingkungan sekitar XD)
+- ✨ Mengubah / Menambah Case Pada Bot Whatsapp
+- ✨ Mencoba mempelajari JavaScript
 
 </br>
 </br>

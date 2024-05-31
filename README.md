@@ -22,7 +22,7 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 
 ## Proyek Terbaru 🧩
 <p align="center">
-  <a href="https://github.com/yourusername/latestproject">
+  <a href="https://github.com/YuiNeio/YuiNeio">
     <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Proyek Terbaru">
   </a>
 </p>

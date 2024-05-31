@@ -47,7 +47,19 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 [![PHP](https://img.shields.io/badge/PHP-PHP-blueviolet?style=for-the-badge&logo=php)](https://en.wikipedia.org/wiki/PHP)
 [![AI/Chat GPT](https://img.shields.io/badge/AI/Chat_GPT-OpenAI-9cf?style=for-the-badge&logo=openai)](https://openai.com)
 
+### - Sedang Belajar :
+- ✨ Struktur Data & Algoritma
+- ✨ Jaringan Adversarial Generatif
 
+### - Hobi : 
+- ✨ Pecinta Game
+- ✨ Menonton Anime
+- ✨ Membaca Novel Ringan
+- ✨ Bulutangkis (Profesional di lingkungan sekitar XD)
+
+</br>
+</br>
+</br>
 
 
 

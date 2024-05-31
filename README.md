@@ -95,11 +95,11 @@ Welcome to my Spotify playlist! This is where I share my favorite tracks and the
 - Jazz
 
 ## 🎼 Current Favorite Tracks
-1. **Song Title 1** - Artist 1
-2. **Song Title 2** - Artist 2
-3. **Song Title 3** - Artist 3
-4. **Song Title 4** - Artist 4
-5. **Song Title 5** - Artist 5
+1. **Aku Yang Jatuh Cinta** -  Dudy Oris
+2. **Jodoh Pasti Bertemu** - Afgan 
+3. **End Of Begining** -  Djo
+4. **Kangen** -  Dewa 19
+5. **Aku Yang Tersakiti** - Judika
 
 ## 🥁 Playlist Stats
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=313livllbwkvzkdyywyn2aetcmdy&redirect=true)

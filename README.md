@@ -86,7 +86,7 @@ Welcome to my Spotify playlist! This is where I share my favorite tracks and the
 
 ## 🎵 Featured Playlist
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=313livllbwkvzkdyywyn2aetcmdy&redirect=true)
-Stay updated with my latest playlist additions by following me on Spotify. Click the link below to follow and never miss out on new music!
+<p align="center">Stay updated with my latest playlist additions by following me on Spotify. Click the link below to follow and never miss out on new music!</p>
 
 [![Follow on Spotify](https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/313livllbwkvzkdyywyn2aetcmdy)
 

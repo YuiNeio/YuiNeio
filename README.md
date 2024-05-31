@@ -55,7 +55,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ## Proyek Terbaru 🧩
 <p align="center">
   <a href="https://github.com/YuiNeio/YuiNeio">
-    <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Proyek Terbaru">
   </a>
 </p>
 </br>

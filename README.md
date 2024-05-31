@@ -136,6 +136,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 - Kucingku memiliki lebih banyak pengikut di Instagram daripada aku.
 - Aku menghabiskan lebih banyak waktu memperbaiki bug daripada menulis kode baru (hidup seorang pengembang).
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Yui+%E3%81%89%E3%83%BC+v2.0" alt="Typing SVG" /></a>
+
 <p align="center">
   <a href="https://wa.me/yourwhatsappnumber">
     <img src="https://img.shields.io/badge/Hubungi_Bot_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Hubungi Bot WhatsApp">

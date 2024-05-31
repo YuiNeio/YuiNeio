@@ -13,9 +13,17 @@ Saya adalah pengembang yang suka sekali dengan kopi dan kucing. Kode saya mungki
 - **Memelihara Kucing:** Kadang-kadang mereka membantu mengetik kode (atau setidaknya berjalan di keyboard).
 
 ## Proyek Saya 🧩
-- 🚀 **Proyek Rahasia:** Jika saya memberi tahu Anda, saya harus... ya, Anda tahu.
-- 🌐 **Website Hebat:** Saya berjanji, itu tidak akan crash (kecuali mungkin hari Senin).
-- 🧪 **Eksperimen Gila:** Karena terkadang, sains harus dilakukan dengan sedikit kegilaan.
+<p align="center">
+  <a href="https://github.com/yourusername/yourrepository1">
+    <img src="https://img.shields.io/badge/Proyek_1-Informasi_Badge_1-<badge_color>?style=flat-square&logo=github" alt="Proyek 1">
+  </a>
+  <a href="https://github.com/yourusername/yourrepository2">
+    <img src="https://img.shields.io/badge/Proyek_2-Informasi_Badge_2-<badge_color>?style=flat-square&logo=github" alt="Proyek 2">
+  </a>
+  <a href="https://github.com/yourusername/yourrepository3">
+    <img src="https://img.shields.io/badge/Proyek_3-Informasi_Badge_3-<badge_color>?style=flat-square&logo=github" alt="Proyek 3">
+  </a>
+</p>
 
 ## Statistik Saya 📊
 <p align="center">

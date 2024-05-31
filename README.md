@@ -63,19 +63,15 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 # Tentang Saya 💬 :
 
-### - Saya adalah penggemar Machine Learning & Artificial Intelligence berusia 19 tahun dari India.
+### - Saya adalah penggemar Bot WhatsApp & Artificial Intelligence berusia 18 tahun dari Indonesia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Sedang Belajar :
-- ✨ Mengubah / Menambah Case Pada Bot Whatsapp
-- ✨ Mencoba mempelajari JavaScript
-
 ### - Hobi : 
 - ✨ Pecinta Game
-- ✨ Menonton Anime
-- ✨ Membaca Novel Ringan
-- ✨ Bulutangkis (Profesional di lingkungan sekitar XD)
+- ✨ Menonton Anime (Jarang) 
+- ✨ Membaca Webtoon
+- ✨ Merusak Coding/Syntax (Kkkk) 
 
 </br>
 </br>

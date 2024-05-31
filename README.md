@@ -177,16 +177,16 @@ You're on a team! :wave:
 Jika Anda ingin menghubungi saya atau ingin tahu lebih banyak, jangan ragu untuk terhubung melalui salah satu platform di bawah ini:
 
 <p align="center">
-  <a href="https://wa.me/yourwhatsappnumber">
+  <a href="https://wa.me/13036169066">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://tiktok.com/yourtiktok">
+  <a href="[https://tiktok.com/yourtiktok](https://www.tiktok.com/@k3ii57?_t=8moTOYgceRi&_r=1)">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="https://instagram.com/yourinstagram">
+  <a href="https://www.instagram.com/xecteam_?igsh=d3gyOG02Zm5xb25r">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="t.me/SxNtxx777">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
@@ -209,7 +209,7 @@ Jika Anda ingin menghubungi saya atau ingin tahu lebih banyak, jangan ragu untuk
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Yui+%E3%81%89%E3%83%BC+v2.0" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://wa.me/yourwhatsappnumber">
+  <a href="https://wa.me/6283141611744">
     <img src="https://img.shields.io/badge/Hubungi_Bot_WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Hubungi Bot WhatsApp">
   </a>
 </p>
@@ -229,6 +229,6 @@ Jika Anda ingin menghubungi saya atau ingin tahu lebih banyak, jangan ragu untuk
 
 <footer align="center">
   <p align="center">Terima kasih telah mengunjungi profil saya! Jangan ragu untuk terhubung dengan saya melalui kontak di atas.</p>
-  <p align="center">Ingin tahu lebih banyak? Ikuti saya di <a href="https://twitter.com/yourtwitter">Twitter</a> dan <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a>!</p>
-  <p align="center">&copy; 2024 Nama Anda | Dibuat dengan ❤️ dan ☕</p>
+  <p align="center">Ingin tahu lebih banyak? Ikuti saya di <a href="https://whatsapp.com/channel/0029VaWF11mL7UVQFnnzBX0y">Group Whatsapp</a>!</p>
+  <p align="center">&copy; 2024 YuiNeoi | Dibuat dengan ❤️ dan ☕</p>
 </footer>

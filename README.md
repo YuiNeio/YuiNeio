@@ -65,7 +65,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 ### - Saya adalah penggemar Bot WhatsApp & Artificial Intelligence berusia 18 tahun dari Indonesia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif">
 
 ### - Hobi : 
 - ✨ Pecinta Game

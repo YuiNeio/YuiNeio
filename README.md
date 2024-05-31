@@ -3,7 +3,9 @@
 ## Siapa Saya? 🤔
 Saya adalah pengembang yang suka sekali dengan kopi dan kucing. Kode saya mungkin tidak sempurna, tapi setidaknya saya selalu berusaha keras (dan minum banyak kopi). ☕🐱
 
-![Funny Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Funny Cat Coding">
+</p>
 
 ## Apa yang Saya Lakukan? 🛠️
 - **Koding:** Seperti ninja, tapi dengan lebih banyak bug.
@@ -16,7 +18,9 @@ Saya adalah pengembang yang suka sekali dengan kopi dan kucing. Kode saya mungki
 - 🧪 **Eksperimen Gila:** Karena terkadang, sains harus dilakukan dengan sedikit kegilaan.
 
 ## Statistik Saya 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 ## Hubungi Saya 📫
 - **Email:** kode_dan_kopi@example.com

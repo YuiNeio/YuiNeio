@@ -99,7 +99,7 @@ Welcome to my Spotify playlist! This is where I share my favorite tracks and the
 5. **Song Title 5** - Artist 5
 
 ## 🥁 Playlist Stats
-![Spotify Stats](https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=313livllbwkvzkdyywyn2aetcmdy&redirect=true)
 
 ## 📲 Follow Me
 Stay updated with my latest playlist additions by following me on Spotify. Click the link below to follow and never miss out on new music!

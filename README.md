@@ -82,7 +82,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Anime Girl with Laptop">
+  <img src="-" alt="Anime Girl with Laptop">
 </p>
 
 # Contact Me :

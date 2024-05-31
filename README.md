@@ -39,7 +39,7 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<img src="https://telegra.ph/file/e2a86cad814210f990bf9.jpg" width="25%" align="right" />
+<img src="https://telegra.ph/file/fc5b51f17c160f77aa1b6.gif" width="25%" align="right" />
 
 [![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)

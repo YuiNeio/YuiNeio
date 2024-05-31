@@ -47,6 +47,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ### - Sedang Belajar :
 - ✨ Mengubah / Menambah Case Pada Bot Whatsapp
 - ✨ Mencoba mempelajari JavaScript
+- 🐱 Ingin menguasai HTML
+- 🎴 Ingin menguasai JavaScript
+- 🎧 Ingin bersamamu selamanya (Aisyah) 🕊
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Anu bang. </> ...  
 

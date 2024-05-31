@@ -65,42 +65,29 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
   <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Anime Girl with Laptop">
 </p>
 
-# Contact Me :
+# Hubungi Saya 📫
 
 <p>
- </br>
+  <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+</p>
 
+Jika Anda ingin menghubungi saya tentang apapun, baik itu pertanyaan atau hanya ingin ngobrol atau bermain game bersama, jangan ragu untuk menghubungi saya 😉.
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="mailto:youremail@example.com">
+ <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
+<a href="https://wa.me/yourwhatsappnumber">
+  <img align="left" alt="WhatsApp" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/whatsapp.png" />
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</br>
+</br>
+</br>
+<a href="https://www.facebook.com/yourfacebook">
+  <img align="left" alt="Facebook" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/facebook.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+<a href="https://instagram.com/yourinstagram">
+  <img align="left" alt="Instagram" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/instagram.png" />
 </a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 ## Fun Facts 🥳
 - Aku bisa mengetik kode dengan satu tangan sambil minum kopi dengan tangan lainnya.
 - Kucingku memiliki lebih banyak pengikut di Instagram daripada aku.

@@ -1,4 +1,4 @@
-# 👋 Hai, Selamat Datang di Profil Saya!
+## 👋 Hai, Selamat Datang di Profil Saya!
 
 ## Siapa Saya? 🤔
 Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak selalu sempurna, aku selalu berusaha keras (dan minum banyak kopi). ☕🐱
@@ -152,7 +152,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50%">
+  <img src="https://telegra.ph/22df78ae6de8213367008.gif" width="50%">
 </p>
 
 <footer align="center">

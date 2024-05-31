@@ -37,6 +37,8 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 
 ## Bahasa Pemrograman yang Saya Kuasai 💻
 
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
 <img src="https://telegra.ph/file/e2a86cad814210f990bf9.jpg" width="25%" align="right" />
 
 [![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
@@ -44,6 +46,10 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 [![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-PHP-blueviolet?style=for-the-badge&logo=php)](https://en.wikipedia.org/wiki/PHP)
 [![AI/Chat GPT](https://img.shields.io/badge/AI/Chat_GPT-OpenAI-9cf?style=for-the-badge&logo=openai)](https://openai.com)
+
+
+
+
 
 ## Proyek Terbaru 🧩
 <p align="center">

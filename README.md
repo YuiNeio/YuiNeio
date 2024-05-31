@@ -105,24 +105,22 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img hight="320" width="450" align="right" alt="GIF" src="https://telegra.ph/file/397681133dd2587fd9841.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Jika Anda ingin menghubungi saya atau ingin tahu lebih banyak, jangan ragu untuk terhubung melalui salah satu platform di bawah ini:
 
-<a href="mailto:yuineoi@ichigo.me">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://wa.me/13036169066">
-  <img align="left" alt="WhatsApp" width="150" hight="100" src="https://github.com/YuiNeio/YuiNeio/blob/main/assets/bf8a76719f900b8757154eb3cfbc844a.jpg" />
-</br>
-</br>
-</br>
-</a>
-<a href="telegram">
-  <img align="left" alt=" Telegram" width="130" hight="100" src="https://github.com/YuiNeio/YuiNeio/blob/main/assets/5713846d630704ce892f9c93944ba451.jpg" />
-</a>
-<a href="Tes">
-  <img align="left" alt="WhatsApp" width="130" hight="100" src="https://github.com/YuiNeio/YuiNeio/blob/main/assets/bf8a76719f900b8757154eb3cfbc844a.jpg" />
-</a>
- </p>
+<p align="center">
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://tiktok.com/yourtiktok">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://instagram.com/yourinstagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/yourtelegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
  
 
 </br>

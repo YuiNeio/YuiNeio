@@ -11,11 +11,11 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
     <br>
     </center>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    💼 Seorang yang ingin menguasai Bahasa JavaScript Dan HTML
+    💻 System Menggunakan HP Poco F3
+    📖 20% Tentang Pengetahuan Pemrograman
+    🎮 Music • Games • Anime • Code 
+    🐾 YuiNeoi 🐰 
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />

@@ -77,8 +77,39 @@ document.addEventListener("DOMContentLoaded", () => {
 </br>
 
 
-## PlayList Spotify 🎧
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+# 🎧 My Spotify Playlist
+
+Welcome to my Spotify playlist! This is where I share my favorite tracks and the music that keeps me going. Whether I'm coding, relaxing, or just chilling out, these songs are always in my ears. Feel free to explore and enjoy the tunes!
+
+## 🎵 Featured Playlist
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&redirect=true)
+
+## 🎶 Top Genres
+- Pop
+- Rock
+- Indie
+- Electronic
+- Jazz
+
+## 🎼 Current Favorite Tracks
+1. **Song Title 1** - Artist 1
+2. **Song Title 2** - Artist 2
+3. **Song Title 3** - Artist 3
+4. **Song Title 4** - Artist 4
+5. **Song Title 5** - Artist 5
+
+## 🥁 Playlist Stats
+![Spotify Stats](https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+
+## 📲 Follow Me
+Stay updated with my latest playlist additions by following me on Spotify. Click the link below to follow and never miss out on new music!
+
+[![Follow on Spotify](https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/313livllbwkvzkdyywyn2aetcmdy)
+
+---
+
+Thanks for checking out my playlist! I hope you enjoy the music as much as I do. Feel free to reach out and share your favorite tracks or suggestions. Happy listening! 🎶
 
 ## Proyek Terbaru 🧩
 <p align="center">

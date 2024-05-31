@@ -51,6 +51,8 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
     <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Proyek Terbaru">
   </a>
 </p>
+</br>
+</br>
 
 # Tentang Saya 💬 :
 

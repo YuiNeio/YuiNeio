@@ -82,8 +82,8 @@ document.addEventListener("DOMContentLoaded", () => {
 Welcome to my Spotify playlist! This is where I share my favorite tracks and the music that keeps me going. Whether I'm coding, relaxing, or just chilling out, these songs are always in my ears. Feel free to explore and enjoy the tunes!
 
 ## 🎵 Featured Playlist
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313livllbwkvzkdyywyn2aetcmdy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=313livllbwkvzkdyywyn2aetcmdy&redirect=true)
 
 ## 🎶 Top Genres
 - Pop

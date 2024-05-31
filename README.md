@@ -15,10 +15,19 @@ Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak
 - **Koding:** Seperti ninja, tapi dengan lebih banyak bug.
 - **Ngopi:** Karena kafein adalah bahan bakar utama saya.
 - **Memelihara Kucing:** Kadang-kadang mereka membantu mengetik kode (atau setidaknya berjalan di keyboard).
+- **AI/Chat GPT:** Saya juga mengembangkan AI/Chat GPT yang bisa digunakan untuk berbagai aplikasi.
 
 <p align="center">
   <img src="https://telegra.ph/file/d8a17f0ac81ab61b6829c.gif" alt="Anime Girl with Coffee">
 </p>
+
+## Bahasa Pemrograman yang Saya Kuasai 💻
+
+[![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-PHP-blueviolet?style=for-the-badge&logo=php)](https://en.wikipedia.org/wiki/PHP)
+[![AI/Chat GPT](https://img.shields.io/badge/AI/Chat_GPT-OpenAI-9cf?style=for-the-badge&logo=openai)](https://openai.com)
 
 ## Proyek Terbaru 🧩
 <p align="center">

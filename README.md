@@ -111,16 +111,16 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://wa.me/13036169066">
-  <img align="left" alt="WhatsApp" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="WhatsApp" width="150" hight="100" src="https://github.com/YuiNeio/YuiNeio/blob/main/assets/bf8a76719f900b8757154eb3cfbc844a.jpg" />
 </br>
 </br>
 </br>
 </a>
 <a href="telegram">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/YuiNeio/YuiNeio/blob/main/assets/5713846d630704ce892f9c93944ba451.jpg" />
+  <img align="left" alt=" Telegram" width="130" hight="100" src="https://github.com/YuiNeio/YuiNeio/blob/main/assets/5713846d630704ce892f9c93944ba451.jpg" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+<a href="Tes">
+  <img align="left" alt="WhatsApp" width="130" hight="100" src="https://github.com/YuiNeio/YuiNeio/blob/main/assets/bf8a76719f900b8757154eb3cfbc844a.jpg" />
 </a>
  </p>
  

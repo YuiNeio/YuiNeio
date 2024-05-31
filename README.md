@@ -23,8 +23,17 @@ Saya adalah pengembang yang suka sekali dengan kopi dan kucing. Kode saya mungki
 </p>
 
 ## Hubungi Saya 📫
-- **Email:** kode_dan_kopi@example.com
-- **Twitter:** [@kode_dan_kopi](https://twitter.com/kode_dan_kopi)
+<p align="center">
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://instagram.com/yourinstagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/yourtelegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 ## Fun Facts 🥳
 - Saya bisa mengetik kode dengan satu tangan sambil minum kopi dengan tangan lainnya.

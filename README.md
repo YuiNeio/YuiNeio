@@ -149,6 +149,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50%">
@@ -156,5 +157,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <footer align="center">
   <p align="center">Terima kasih telah mengunjungi profil saya! Jangan ragu untuk terhubung dengan saya melalui kontak di atas.</p>
-  <p align="center">&copy; 2024 Nama Anda | Dibuat dengan ❤️</p>
+  <p align="center">Ingin tahu lebih banyak? Ikuti saya di <a href="https://twitter.com/yourtwitter">Twitter</a> dan <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a>!</p>
+  <p align="center">&copy; 2024 Nama Anda | Dibuat dengan ❤️ dan ☕</p>
 </footer>

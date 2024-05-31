@@ -148,7 +148,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50%">
+</p>
+
 <footer align="center">
   <p align="center">Terima kasih telah mengunjungi profil saya! Jangan ragu untuk terhubung dengan saya melalui kontak di atas.</p>
-  <p align="center">&copy; 2024 Yui ぉー</p>
+  <p align="center">&copy; 2024 Nama Anda | Dibuat dengan ❤️</p>
 </footer>

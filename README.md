@@ -4,10 +4,12 @@
 Saya adalah seorang pengembang yang gemar kopi dan kucing. Meskipun kodoku tidak selalu sempurna, aku selalu berusaha keras (dan minum banyak kopi). ☕🐱
 
 <div align="center">
+    <center>
 <img src="https://telegra.ph/file/403f7bb92006102270fd4.jpg" width="25%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A5EF7&vCenter=true&random=true&width=435&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%2C+Saya+Yui;Jangan+lupa+follow+akun+github+saya!+;Arigatou!+%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86.!!+" alt="Typing SVG" /></a>
     <br>
     <br>
+    </center>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
     💻 System programming languages • DevOps 
